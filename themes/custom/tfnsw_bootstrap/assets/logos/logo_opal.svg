@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 30 30">
+	<title>Icon meaning Opal</title>
+	<defs>
+		<linearGradient id="opal-a" x1="22.77" y1="-402.16" x2="25.86" y2="-403.94" gradientTransform="matrix(1, 0, 0, -1, 0, -388)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00afea"/>
+			<stop offset="1" stop-color="#0072bc"/>
+		</linearGradient>
+		<linearGradient id="opal-b" x1="11.66" y1="-395.44" x2="19.8" y2="-390.74" gradientTransform="matrix(1, 0, 0, -1, 0, -388)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#d9166e"/>
+			<stop offset="1" stop-color="#ed1c24"/>
+		</linearGradient>
+		<linearGradient id="opal-c" x1="22.24" y1="-399.63" x2="19.86" y2="-395.15" gradientTransform="matrix(1, 0, 0, -1, 0, -388)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#63cdf6"/><stop offset="1" stop-color="#00a0e4"/>
+		</linearGradient>
+		<linearGradient id="opal-d" x1="18.14" y1="-413.21" x2="10.39" y2="-413.21" gradientTransform="matrix(1, 0, 0, -1, 0, -388)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#1f9a4a"/>
+			<stop offset="1" stop-color="#006543"/>
+		</linearGradient>
+		<linearGradient id="opal-e" x1="22.86" y1="-408.05" x2="18.29" y2="-412.63" gradientTransform="matrix(1, 0, 0, -1, 0, -388)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#72bf44"/>
+			<stop offset="1" stop-color="#23aa4a"/>
+		</linearGradient>
+		<linearGradient id="opal-f" x1="2.84" y1="-407.61" x2="7.87" y2="-398.92" gradientTransform="matrix(1, 0, 0, -1, 0, -388)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f37021"/>
+			<stop offset="1" stop-color="#fcb117"/>
+		</linearGradient>
+		<linearGradient id="opal-g" x1="6.77" y1="-407.69" x2="10.4" y2="-411.31" xlink:href="#e"/>
+		<linearGradient id="opal-h" x1="7.61" y1="-399.5" x2="10.93" y2="-393.77" gradientTransform="matrix(1, 0, 0, -1, 0, -388)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f37021"/>
+			<stop offset="1" stop-color="#ed1c24"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#opal-a)" d="M24.24,5.77h0A17.2,17.2,0,0,1,22.37,15a17.2,17.2,0,0,1,1.87,9.23h0A13.06,13.06,0,0,0,24.24,5.77Z"/>
+	<path fill="url(#opal-b)" d="M24.23,5.77h0a13.06,13.06,0,0,0-18.46,0h0A17.19,17.19,0,0,1,15,7.64,17.2,17.2,0,0,1,24.23,5.77Z"/>
+	<path fill="url(#opal-c)" d="M19.25,10.75A17.22,17.22,0,0,1,22.37,15a17.2,17.2,0,0,0,1.87-9.23q-0.66-.05-1.33-0.05A17.17,17.17,0,0,0,15,7.64,17.15,17.15,0,0,1,19.25,10.75Z"/>
+	<path fill="url(#opal-d)" d="M15,22.36a17.21,17.21,0,0,1-9.23,1.87h0a13.06,13.06,0,0,0,18.46,0h0A17.21,17.21,0,0,1,15,22.36Z"/>
+	<path fill="url(#opal-e)" d="M24.23,24.23A17.21,17.21,0,0,0,22.37,15,17.24,17.24,0,0,1,15,22.36,17.22,17.22,0,0,0,24.23,24.23Z"/>
+	<path fill="url(#opal-f)" d="M5.77,5.77h0A13,13,0,0,0,1.94,15V15a13,13,0,0,0,3.82,9.19h0A17.22,17.22,0,0,1,7.64,15,17.22,17.22,0,0,1,5.77,5.77Z"/>
+	<path fill="url(#opal-e)" d="M10.75,19.25A17.23,17.23,0,0,1,7.64,15a17.22,17.22,0,0,0-1.87,9.23A17.21,17.21,0,0,0,15,22.37,17.2,17.2,0,0,1,10.75,19.25Z"/>
+	<path fill="url(#opal-h)" d="M7.1,5.72q-0.67,0-1.33.05A17.22,17.22,0,0,0,7.64,15,17.25,17.25,0,0,1,15,7.64,17.16,17.16,0,0,0,7.1,5.72Z"/>
+</svg>
